@@ -16,7 +16,7 @@ python -m pip install requests
 
 python -m pip install mechanize
 
-rm -rf khushal404
+rm -rf Random
 
 git clone https://github.com/KhushalVala/Random
 
