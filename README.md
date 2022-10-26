@@ -24,4 +24,4 @@ cd Random
 
 ls
 
-python krandom.py
+python clonerandom.py
