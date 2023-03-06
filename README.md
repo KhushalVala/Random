@@ -24,4 +24,4 @@ cd Random
 
 ls
 
-python RNDM.py
+python Random.py
