@@ -24,4 +24,4 @@ cd Random
 
 ls
 
-python Random.py
+python khushal.py
