@@ -1,1 +1,1 @@
-6import khushal
+import khushal
